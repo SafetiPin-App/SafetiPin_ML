@@ -1,3 +1,5 @@
+<img src="https://safetipin.com/wp-content/uploads/2020/01/SafetiPin-Logo-1.png" alt="SafetiPin Logo" width="250" height="100" align="top">  &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  <img src="https://www.un.org/ruleoflaw/wp-content/uploads/2015/04/uniceflogo.png" alt="Unicef Logo" width="200" height="200">
+
 ###  Introduction to Safetipin
 
 Safetipin is a technology platform that works to make our communities and cities safer by collecting and disseminating safety-related information through map-based application by users and trained auditors. We collect and assess information on perceptions of safety in urban public spaces by assessing them on parameters of physical infrastructure and the social environment. Using the methodology of a safety audit, the following parameters are measured - Lighting, openness, visibility, security, walkpath, availability of public transport, presence of people and diversity of women or children in people. Based on the audit ratings, a Safety Score is generated for an area/ city.
