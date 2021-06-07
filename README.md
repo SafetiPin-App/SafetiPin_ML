@@ -47,8 +47,8 @@ The inference can be done either using jupyter notebook present in the repositor
 
 Example Output:
 
-https://github.com/SafetiPin-App/SafetiPin_ML/blob/add-license-1/images/1227_1226.jpg?raw=true
 
-![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/47.jpg?raw=true)
+
+![alt text](https://github.com/SafetiPin-App/SafetiPin_ML/blob/add-license-1/images/1227_1226.jpg?raw=true)
 
 ![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/18.jpg?raw=true)
