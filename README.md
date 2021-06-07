@@ -46,3 +46,9 @@ For people interested in using our model, please download the file from the link
 The inference can be done either using jupyter notebook present in the repository or by running following files python train.py
 
 Example Output:
+
+![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/1227_1226.jpg?raw=true)
+
+![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/47.jpg?raw=true)
+
+![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/18.jpg?raw=true)
