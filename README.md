@@ -22,7 +22,10 @@ All the above features are important in our analysis and further evaluating its 
 ###### About this Repository
 
 This is an implementation of Faster RCNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes around key features model for which it has been trained. With this repository we have released the final model which can be directly used.
-The model has been trained using a pretrained Base model. The Base model has been  trained using night-time dataset and is a VGG model with attention network on top. It can be  downloaded from here. This could be useful for open-source community. Using the base Vgg16 model we have trained a Faster RCNN model for features extraction.It is available for download from below link.
+The model has been trained using a pretrained Base model. The Base model has been  trained using night-time dataset and is a VGG model with attention network on top. It can be  downloaded from here. 
+https://drive.google.com/file/d/1004zUwiXr_0nEn0k0_5UPUAnb1TPbzfg/view?usp=sharing
+This could be useful for open-source community. Using the base Vgg16 model we have trained a Faster RCNN model for features extraction.It is available for download from below link.
+https://drive.google.com/file/d/1idCg3IlDi_UZse76KPnbjmL3zVkTeBID/view?usp=sharing
 
 ###### The repository includes:
 - Source Code for Training Faster RCNN model using Keras and TensorFlow
@@ -38,12 +41,12 @@ The model has been trained using a pretrained Base model. The Base model has bee
 
 ###### How to use the Repository:
 
-The training is done on a dataset prepared in voc format. For COCO dataset, there is a script which converts coco dataset format into voc dataset format.
-Download the base vgg model from link here and put it into folder model.
-The training can be initiated by running python train.py -p /path/to/vocdataset.
-The configuration for Faster RCNN is saved in lib/config.py. The settings are as per our requirement and can be changed as per dataset.
-For people interested in using our model, please download the file from the link here and save it in model folder.
-The inference can be done either using jupyter notebook present in the repository or by running following files python train_frcnn.py
+- The training is done on a dataset prepared in voc format. For COCO dataset, there is a script which converts coco dataset format into voc dataset format.
+- Download the base vgg model from link here and put it into folder model.
+- The training can be initiated by running python train.py -p /path/to/vocdataset.
+- The configuration for Faster RCNN is saved in lib/config.py. The settings are as per our requirement and can be changed as per dataset.
+- For people interested in using our model, please download the file from the link here and save it in model folder.
+- The inference can be done either using jupyter notebook present in the repository test.ipynb or by running following files python train_frcnn.py
 
 Example Output:
 
