@@ -22,9 +22,9 @@ All the above features are important in our analysis and further evaluating its 
 ###### About this Repository
 
 This is an implementation of Faster RCNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes around key features model for which it has been trained. With this repository we have released the final model which can be directly used.
-The model has been trained using a pretrained Base model. The Base model has been  trained using night-time dataset and is a VGG model with attention network on top. It can be  downloaded from here. 
+The model has been trained using a pretrained Base model. The Base model has been  trained using night-time dataset and is a VGG model with attention network on top. It can be  downloaded from here. <tr></tr>
 https://drive.google.com/file/d/1004zUwiXr_0nEn0k0_5UPUAnb1TPbzfg/view?usp=sharing
-This could be useful for open-source community. Using the base Vgg16 model we have trained a Faster RCNN model for features extraction.It is available for download from below link.
+This could be useful for open-source community. Using the base Vgg16 model we have trained a Faster RCNN model for features extraction.It is available for download from below link.<tr></tr>
 https://drive.google.com/file/d/1idCg3IlDi_UZse76KPnbjmL3zVkTeBID/view?usp=sharing
 
 ###### The repository includes:
