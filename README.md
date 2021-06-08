@@ -22,12 +22,12 @@ All the above features are important in our analysis and further evaluating its 
 ###### About this Repository
 
 This is an implementation of Faster RCNN on Python 3, Keras, and TensorFlow. The model generates bounding boxes around key features model for which it has been trained. With this repository we have released the final model which can be directly used.
-The model has been trained using a pretrained base Vgg16 model. The Vgg16 model has been specifically designed using night-time dataset and can be downloaded from here. This could be useful for open-source community. The final model for features detection will be released soon on completion of project.
+The model has been trained using a pretrained Base model. The Base model has been  trained using night-time dataset and is a VGG model with attention network on top. It can be  downloaded from here. This could be useful for open-source community. Using the base Vgg16 model we have trained a Faster RCNN model for features extraction.It is available for download from below link.
 
 ###### The repository includes:
 - Source Code for Training Faster RCNN model using Keras and TensorFlow
 - Parser for VOC dataset
-- Jupyter Notebook for evaluating the results and analysing attention maps on Vgg model
+- Jupyter Notebook for evaluating the results 
 - Source code for prediction
 - Additional/Pre-processing Script
 
@@ -43,7 +43,7 @@ Download the base vgg model from link here and put it into folder model.
 The training can be initiated by running python train.py -p /path/to/vocdataset.
 The configuration for Faster RCNN is saved in lib/config.py. The settings are as per our requirement and can be changed as per dataset.
 For people interested in using our model, please download the file from the link here and save it in model folder.
-The inference can be done either using jupyter notebook present in the repository or by running following files python train.py
+The inference can be done either using jupyter notebook present in the repository or by running following files python train_frcnn.py
 
 Example Output:
 
@@ -51,4 +51,6 @@ Example Output:
 
 ![alt text](https://github.com/SafetiPin-App/SafetiPin_ML/blob/add-license-1/images/1227_1226.jpg?raw=true)
 
-![alt text](https://github.com/Aavesh/SafetiPin_ML/blob/master/images/18.jpg?raw=true)
+![alt text](https://github.com/SafetiPin-App/SafetiPin_ML/blob/add-license-1/images/18.jpg?raw=true)
+
+![alt text](https://github.com/SafetiPin-App/SafetiPin_ML/blob/add-license-1/images/47.jpg?raw=true)
